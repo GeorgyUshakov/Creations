@@ -1,7 +1,5 @@
 # Creations
-Not great, not terrible. Definitely not great. Math stuff because I have found no other use for programming so far.
-
-Stuff in here:
+Mostly math stuff:
 
 Fibonacci.py - Python program to return terms of the Fibonacci sequence. One of the first programs I've ever written. Written sometime in 2018.
 
