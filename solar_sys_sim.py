@@ -73,7 +73,7 @@ orb(19.218, 0.047, 74.006, 0.773, 99.999, 'green')
 orb(30.11, 0.009, 131.784, 1.768, 276.336, 'blue')
 
 # Scale of graph (± axis limits):
-s = 1
+s = 35
 
 plt.xlim(-s,s)
 plt.ylim(-s,s)
