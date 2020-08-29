@@ -1,4 +1,4 @@
-# Pythonic Mathematics
+# Python Maths
 
 Fibonacci.py - Python program to return terms of the Fibonacci sequence. One of the first programs I've ever written. Written sometime in 2018.
 
